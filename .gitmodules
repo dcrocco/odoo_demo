@@ -2,3 +2,11 @@
 	path = odoo_l10n_ar
 	url = git@bitbucket.org:blueorangegroup/odoo_l10n_ar.git
 	branch = 12.0
+[submodule "odoo_addons_mercadolibre"]
+	path = odoo_addons_mercadolibre
+	url = git@bitbucket.org:blueorangegroup/odoo_addons_mercadolibre.git
+	branch = 12.0
+[submodule "odoo_addons_others"]
+	path = odoo_addons_others
+	url = git@bitbucket.org:blueorangegroup/odoo_addons_others.git
+	branch = 12.0
